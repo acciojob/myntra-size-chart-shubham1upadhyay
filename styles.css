@@ -1,2 +1,32 @@
-
-/* Your CSS Code here. */
+body{
+  margin:10%;
+}
+.table{
+  border:1px grey solid;
+}
+th{
+  width:300px;
+	background-color:red;
+	color:white;
+  border:1px black solid;
+	text-align:left;
+}
+.v{
+	background-color:aliceblue;
+}
+.c{
+	background-color:greenyellow;
+}
+.p{
+	background-color:deeppink;
+	color:white;
+}
+.l{
+	text-align:left;
+}
+.r{
+	text-align:right;
+}
+td{
+	border:1px black solid;
+}
